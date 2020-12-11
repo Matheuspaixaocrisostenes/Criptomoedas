@@ -6,6 +6,6 @@ Um Projeto de Requisitando dados de uma API de criptomoedas desenvolvido na digi
 - HTML5
 - Bootstrap cdn
 
-# Instruções para o uso :book-green:
+# Instruções para o uso :book:
 - 1 Baixe a extenção Moesif oringn & color changer no seu navegador
 - 2 Execute o index.html
